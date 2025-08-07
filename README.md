@@ -1,6 +1,6 @@
 # 🧠 LLM Chatbot Web App
 
-A simple AI chatbot built using Streamlit,LangChain,and OpenAI. This app allows users to input prompts and receive intelligent responses from a large language model.
+A simple AI chatbot built using Streamlit,LangChain,and OpenAI. This app allows users to input prompts and receive intelligent responses from a large language model. 
 
 ---
 
